@@ -9,7 +9,7 @@
 [t] {return t;} 
 [a] {return a;} 
 [b] {return b;} 
-[e] {return e;} 
+[e] {return e;}
 \n {return NL;} 
 . {return yytext[0];} 
 %%
