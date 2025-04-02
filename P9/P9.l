@@ -1,7 +1,7 @@
 %option noyywrap
 %{
 	#include<stdio.h>
-	#include "22CE126_firstyacc.tab.h" 
+	#include "P9.tab.h" 
 %}
 
 %%
