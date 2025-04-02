@@ -1,5 +1,5 @@
 %{
-#include "10_22CE126.tab.h"
+#include "P10.tab.h"
 
 %}
 
